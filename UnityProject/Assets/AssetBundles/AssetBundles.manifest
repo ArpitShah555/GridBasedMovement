@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 605550629
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: playercharacter
+      Dependencies: {}
